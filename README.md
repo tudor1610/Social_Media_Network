@@ -1,4 +1,4 @@
-Authors: Niculescu Raluca (iacular), Brandibur Tudor (tudor1610)
+Authors: Brandibur Tudor (tudor1610), Niculescu Raluca (iacular)
 
 # TASK 1 - The Friend Network
 
