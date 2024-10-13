@@ -1,5 +1,4 @@
-raluca.niculescu
-tudor.brandibur
+Authors: Niculescu Raluca (iacular), Brandibur Tudor (tudor1610)
 
 # TASK 1 - The Friend Network
 
