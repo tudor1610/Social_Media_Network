@@ -1,13 +1,7 @@
-Echipa tema 3 SD:
 raluca.niculescu
 tudor.brandibur
 
 # TASK 1 - The Friend Network
-
-<small>
-Copyright -
-All the helper functions used in this implementation are sourced from the data structure labs at university.
-</small>
 
 ## 1.1 Introduction
 This file provides the implementation of various functionalities to manage and analyze a social
